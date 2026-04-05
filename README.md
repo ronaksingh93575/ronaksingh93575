@@ -1,55 +1,60 @@
-<h1 align="center">Hi 👋! My name is Ronak Singh</h1>
+# 👋 Hey, I'm Ronak Singh
 
-###
+🚀 AI/ML Developer focused on building real-world intelligent systems  
+💡 Interested in Computer Vision, Automation, and Assistive AI  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-</div>
+---
 
-###
+## 🧠 About Me
+- 🎯 Working on AI solutions to help visually impaired people
+- 🤖 Building real-time systems using OpenCV, DeepFace & Python
+- 🛠️ Exploring automation with PyAutoGUI and intelligent bots
+- 📊 Interested in Data Science and scalable AI systems
 
-<div align="left">
-  <a href="instagram.com/ronaksingh93575" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ronak-singh93575/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="ronaksingh93575@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-  <a href="t.me/ronaksingh93575" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
-  </a>
-</div>
+---
 
-###
+## 🚀 Current Projects
+- 👁️ AI Assistant for Blind People (real-time environment detection)
+- 👕 Smart Outfit Recommendation System (CV + ML)
+- 🤖 Game Automation Bot using OpenCV + PyAutoGUI
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaksingh93575&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaksingh93575&layout=compact&theme=dracula" height="150"/>
-</div>
+---
 
-###
+## 💻 Tech Stack
 
-<br clear="both">
+**Languages**
+- Python, SQL
 
-<img src="https://raw.githubusercontent.com/ronaksingh93575/ronaksingh93575/output/snake.svg" alt="Snake animation" />
+**AI / ML**
+- TensorFlow, OpenCV, DeepFace, Scikit-learn
 
-###
+**Tools**
+- Git, GitHub, Android Studio, VS Code
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaksingh93575&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksingh93575&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ronaksingh93575/ronaksingh93575/output/snake.svg"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/ronak-singh93575/
+- 📧 Email: ronaksingh93575@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I build things that actually solve problems, not just projects for show.
