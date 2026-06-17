@@ -31,14 +31,6 @@
 **Tools**
 - Git, GitHub, Android Studio, VS Code
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ronaksingh93575&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ronaksingh93575&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
